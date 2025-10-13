@@ -45,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
