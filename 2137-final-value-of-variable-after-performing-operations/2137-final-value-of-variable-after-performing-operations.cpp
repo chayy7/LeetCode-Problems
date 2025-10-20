@@ -14,14 +14,3 @@ public:
         
     }
 };
-/*
-
-
-i ll do , and in question also they mentioned the logic i did only, once see
-
-u r great ey, 
-asala verey logics u writing code
-
-u code the ur logic i will see.
-
-*/ 
