@@ -1,6 +1,22 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        
+        // brute force
+        vector <int> newArr;
+        for(int i = 0;i<nums.size();i++){
+            for(int j = i+1; j<nums.size();j++){
+                if(nums[i] + nums[j] == target){
+                    newArr.push_back(i);
+                    newArr.push_back(j);
+                }
+            }
+        }
+        return newArr;    
     }
 };
+
+
+/*
+no prob, onoce revise the logic n come, i ll wait
+
+*/
