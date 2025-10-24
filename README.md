@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
