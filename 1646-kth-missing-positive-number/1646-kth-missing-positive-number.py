@@ -6,5 +6,7 @@ class Solution:
             if i not in arr:
                 cnt += 1
             if cnt == k:
-                return i
+                d = i
+                break
+        return d
             
