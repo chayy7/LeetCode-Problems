@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3463-alternating-groups-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3463-alternating-groups-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
