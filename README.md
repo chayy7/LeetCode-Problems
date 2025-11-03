@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chayy7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/chayy7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
