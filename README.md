@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chayy7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
