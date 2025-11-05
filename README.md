@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/chayy7/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/chayy7/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
