@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/chayy7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chayy7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
