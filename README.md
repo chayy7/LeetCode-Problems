@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
 ## Linked List
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
