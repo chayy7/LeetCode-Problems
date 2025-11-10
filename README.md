@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/chayy7/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0074-search-a-2d-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/chayy7/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
