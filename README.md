@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2571-find-the-pivot-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-strictly-palindromic-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2571-find-the-pivot-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
