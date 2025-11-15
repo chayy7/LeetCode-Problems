@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [3463-alternating-groups-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3463-alternating-groups-i) |
 ## Tree
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/chayy7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/chayy7/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
