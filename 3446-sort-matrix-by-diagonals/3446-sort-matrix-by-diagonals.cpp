@@ -16,6 +16,14 @@ public:
             }
         }
 
+        // for(auto i:mpp){
+        //     cout << i.first << "->";
+        //     for(auto j:i.second){
+        //         cout <<j << " ";
+        //     }
+        //     cout << endl;
+        // }
+
         for(int i=0;i<grid.size();i++){
             for(int j= 0;j<grid[0].size();j++){
                 
