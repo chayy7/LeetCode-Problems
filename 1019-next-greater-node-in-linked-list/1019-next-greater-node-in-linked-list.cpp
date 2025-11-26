@@ -24,7 +24,7 @@ public:
             int maxi=v[i];
             for(int j=i+1;j<v.size();j++){
                 if(maxi < v[j]){
-                    maxi=max(v[j],maxi);
+                    maxi=v[j];
                     break;
                 }
                 
