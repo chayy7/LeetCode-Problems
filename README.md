@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chayy7/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [2761-prime-pairs-with-target-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/2761-prime-pairs-with-target-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/chayy7/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
