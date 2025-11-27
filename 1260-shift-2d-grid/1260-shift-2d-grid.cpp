@@ -8,6 +8,10 @@ public:
             }
         }
 
+        int t=grid.size()*grid[0].size();
+        k %= t;
+        
+
         reverse(v.begin(),v.end()-k);
         reverse(v.end()-k,v.end());
         reverse(v.begin(),v.end());
