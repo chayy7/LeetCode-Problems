@@ -1,24 +1,23 @@
 class Solution {
 public:
     int kthSmallest(vector<vector<int>>& arr, int k) {
-        vector<int> v; // 1d array
+        vector<int> v; 
         
-        for(auto i:arr){   // "i" will look as [1,5,9]
-            for(auto j:i){     // "j" will look as 1 and then 5 and then 9
+        
+        for(auto i:arr){
+            for(auto j:i){
                 v.push_back(j);
+                
             }
         }
         
-        sort(v.begin(),v.end());
+        sort(begin(v),end(v)); 
         
-        
-        return v[k-1]; // what is this?
-        
+        return v[k-1];
     }
 };
 
 
 
-/* 
- 
+/*
  */
