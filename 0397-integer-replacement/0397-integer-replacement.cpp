@@ -11,10 +11,10 @@ public:
 
             }else{
                 if(o == 3) {
-                    o -= 1;
+                    o-= 1;
                     cnt += 1;
-                } else if((o + 1) % 4 == 0) {
-                    o += 1;
+                } else if((o + 1)%4== 0) {
+                    o+= 1;
                     cnt += 1;
                 } else {
                     o -= 1;
