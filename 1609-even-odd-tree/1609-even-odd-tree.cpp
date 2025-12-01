@@ -55,20 +55,20 @@ public:
 
         }
 
-        // for(auto i:v1){
-        //     for(auto j:i){
-        //         cout << j << " ";
-        //     }
+        for(auto i:v1){
+            for(auto j:i){
+                cout << j << " ";
+            }
 
-        //     cout << endl;
-        // }
-        // for(auto i:v2){
-        //     for(auto j:i){
-        //         cout << j << " ";
-        //     }
+            cout << endl;
+        }
+        for(auto i:v2){
+            for(auto j:i){
+                cout << j << " ";
+            }
 
-        //     cout << endl;
-        // }
+            cout << endl;
+        }
 
         if(v1.size() != v2.size()) return false;
 
