@@ -1,22 +1,18 @@
 class Solution {
 public:
-
-    void inorder(TreeNode* root, set<int>& s){
-        if(root == nullptr) return;
-        //Step 1
-        
-        inorder(root->left,s);
-        s.insert(root->val);
-        inorder(root->right,s);
+    void traverse(TreeNode* root, set<int>& uniqueVals){
+        if(root == NULL) return;
+        traverse(root -> left, uniqueVals);
+        uniqueVals.insert(root -> val); 
+        traverse(root -> right, uniqueVals);
     }
     bool isUnivalTree(TreeNode* root) {
-        
-        set<int> s; 
-        inorder(root,s);
-        if(s.size() == 1) return true;
-        
-        return false;
-        
-         
+        set<int> emptySet;
+        traverse(root, emptySet);
+        // if(emptySet.size() == 1) return true;
+        return emptySet.size() == 1;
     }
 };
+
+
+/* Start karo */
