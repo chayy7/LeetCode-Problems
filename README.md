@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1609-even-odd-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1609-even-odd-tree) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1609-even-odd-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 ## Binary Tree
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1609-even-odd-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1609-even-odd-tree) |
