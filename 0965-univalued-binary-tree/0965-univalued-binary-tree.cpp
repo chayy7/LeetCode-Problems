@@ -9,10 +9,6 @@ public:
     bool isUnivalTree(TreeNode* root) {
         set<int> emptySet;
         traverse(root, emptySet);
-        // if(emptySet.size() == 1) return true;
         return emptySet.size() == 1;
     }
 };
-
-
-/* Start karo */
