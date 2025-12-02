@@ -11,18 +11,27 @@ public:
         vector <int> arr1;
         vector <int> arr2;
         
-        traverse(root1, arr1);
-        traverse(root2, arr2);
+        traverse(root1, arr1); // another q?waite
+        traverse(root2, arr2); 
         
         vector <int> mergeArr;
-        for(auto i:arr1){
-            mergeArr.push_back(i);
-        }
-        for(auto i:arr2){
-            mergeArr.push_back(i);
+        int i =0;
+        int j =0;
+        while(i < arr1.size() || j<arr2.size()){
+            if(i < arr1.size()){
+                mergeArr.push_back(arr1[i]);
+                i++;
+            }else{
+                mergeArr.push_back(arr2[j]);
+                j++;
+            }
         }
         
         sort(mergeArr.begin(),mergeArr.end());
         return mergeArr;       
     }
 };
+
+/* 
+
+ */
