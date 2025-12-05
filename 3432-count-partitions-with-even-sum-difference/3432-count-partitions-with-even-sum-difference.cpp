@@ -1,28 +1,22 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums) {
-        int ts= 0;
-        for(auto i:nums){
-            ts += i;
-
-        }
-        cout << ts;
-
-        int cnt=0;
-        int s = 0;
-        for(int i= 0;i<nums.size()-1;i++){
-            s+= nums[i];
-            int diff = ts-s;
-            if((s-diff) % 2 == 0){
-                cnt++;
+        int count = 0;
+        int prevSum = 0;
+        for(int i=0;i<nums.size()-1;i++){
+            prevSum += nums[i];
+            int nextSum = 0;
+            for(int j=i+1;j<nums.size();j++){
+                nextSum += nums[j];
             }
-            // for(int j=i+1;j<nums.size();j++){
-            //     s += nums[j];
-
-            // }
+            if((prevSum - nextSum) % 2 == 0){
+                count++;
+            }
         }
-
-        return cnt;
-
+        return count;
     }
 };
+
+/* 
+
+ */
