@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/chayy7/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/chayy7/LeetCode-Problems/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1688-count-of-matches-in-tournament](https://github.com/chayy7/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
