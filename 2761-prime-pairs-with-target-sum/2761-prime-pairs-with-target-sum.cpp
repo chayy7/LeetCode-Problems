@@ -1,7 +1,6 @@
 class Solution {
 public:
-
-    bool isprime(int n){
+    bool isPrime(int n){
         if(n <= 1) return false;
         if(n == 2) return true;        
         if(n % 2 == 0) return false;   
@@ -11,18 +10,14 @@ public:
         return true;
     }
 
-
     vector<vector<int>> findPrimePairs(int n) {
-        vector<vector<int>> v;
-        for(int i = 2;i<=n/2;i++){
-            // vector<int> vv;
-            int j=n-i;
-                if(isprime(i) && isprime(j) ){
-                    v.push_back({i,j});
-                }
-            
-            // v.push_back(vv);
+        vector<vector<int>> result;
+        for(int j = 1;j<=n/2;j++){
+            if(isPrime(j) && isPrime(n - j)){
+                result.push_back({j, n-j}); 
+            }
         }
-        return v;
+        return result;
+        
     }
 };
