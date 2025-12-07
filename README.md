@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/chayy7/LeetCode-Problems/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/chayy7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1688-count-of-matches-in-tournament](https://github.com/chayy7/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
