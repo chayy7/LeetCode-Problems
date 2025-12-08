@@ -56,21 +56,21 @@ public:
             num.push_back(temp->val + '0');
             temp = temp->next;
         }
-        int carry = 0;
-        for (int i = num.size() - 1; i >= 0; i--) {
-            int x = (num[i] - '0') * 2 + carry;
-            num[i] = (x % 10) + '0';
-            carry = x / 10;
+        int carry=0;
+        for (int i = num.size()-1; i>=0;i--) {
+            int x=(num[i]-'0') * 2+carry;
+            num[i]=(x % 10) + '0';
+            carry=x/10;
         }
-        if (carry) num.insert(num.begin(), carry + '0');
+        if (carry) num.insert(num.begin(),carry+'0');
         vector<long long> v;
-        for (char c : num) v.push_back(c - '0');
-        ListNode* c = new ListNode(v[0]);
-        ListNode* curr = c;
+        for (char c:num)v.push_back(c-'0');
+        ListNode* c=new ListNode(v[0]);
+        ListNode* curr=c;
 
-        for (long long i = 1; i < v.size(); i++) {
-            curr->next = new ListNode(v[i]);
-            curr = curr->next;
+        for (long long i=1; i<v.size();i++) {
+            curr->next=new ListNode(v[i]);
+            curr=curr->next;
         }
 
         return c;
