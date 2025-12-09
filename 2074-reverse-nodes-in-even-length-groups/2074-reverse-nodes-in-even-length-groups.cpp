@@ -8,12 +8,6 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-static const int fast = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    return 0;
-}();
-
 class Solution {
 public:
     ListNode* reverseEvenLengthGroups(ListNode* head) {
