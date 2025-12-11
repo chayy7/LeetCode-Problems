@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> transpose(vector<vector<int>>& mat) {
-        // if(mat.empty()) return {};
         int n=mat.size();
         int m=mat[0].size();
 
