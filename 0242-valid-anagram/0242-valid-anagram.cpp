@@ -20,11 +20,11 @@ public:
 
 
 
-        for(int i=0;i<s.size();i++){
+        // for(int i=0;i<s.size();i++){
+        //     cout << mpp[s[i]] << mpp1[s[i]] << endl;
+        //     if( mpp[s[i]] != mpp1[s[i]] ) return false;
+        // }
 
-            if( mpp[s[i]] != mpp1[s[i]] ) return false;
-        }
-
-        return true;
+        return mpp==mpp1;
     }
 };
