@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chayy7/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/chayy7/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quickselect
 |  |
 | ------- |
