@@ -7,7 +7,7 @@ public:
         }
 
         int i=0;
-        while(i < s.size()){
+        while(!st.empty()){
             s[i] = st.top();
             st.pop();
             i++;
