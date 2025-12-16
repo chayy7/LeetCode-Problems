@@ -16,14 +16,14 @@ public:
        vector <int>res;
        sort(even.begin(),even.end()); // non-dec---> increasing
        sort(odd.rbegin(),odd.rend()); // non-inc---> decreasing
-    //    int i=0,j=0;
-       for(int i=0;i<min(even.size(),odd.size());i++){ 
-            res.push_back(even[i]);
-            res.push_back(odd[i]);
+       int i=0,j=0;
+       while(i<even.size() && j<odd.size()){ 
+            res.push_back(even[i++]);
+            res.push_back(odd[j++]);
        }
        
        if(even.size() > odd.size()){
-        res.push_back(even.back()); // yes forst u learn how lops are working,, making silly chnages
+        res.push_back(even.back());
        }
        
        return res;
