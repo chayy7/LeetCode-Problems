@@ -8,11 +8,10 @@ public:
             temp=temp->next;
         }
 
-        int maxi = 0;
-        int i = 0, j = v.size() - 1;
-
-        while (i < j) {
-            maxi = max(maxi, v[i] + v[j]);
+        int maxi=0;
+        int i=0, j =v.size()-1;
+        while(i < j){
+            maxi=max(maxi,v[i]+v[j]);
             i++;
             j--;
         }
