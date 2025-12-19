@@ -1,17 +1,24 @@
 class Solution {
 public:
-    string defangIPaddr(string adr) {
-        int n=adr.size();
-
-        string c= "";
-        for(int i=0;i<n;i++){
-            if(adr[i] == '.'){
-                c+="[.]";
+    string defangIPaddr(string s) {
+        stack<char> st;
+        for(int i=0;i<s.size();i++){
+            
+            if(s[i] == '.'){
+                st.push('[');
+                st.push(s[i]);
+                st.push(']');
             }else{
-                c+=adr[i];
+                st.push(s[i]);
             }
         }
-
-        return c;
+        string ans = "";
+        while(!st.empty()){
+            ans += st.top();
+            st.pop();
+        }
+        
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
