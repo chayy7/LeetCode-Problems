@@ -1,19 +1,10 @@
 class Solution {
 public:
-    bool checkIfPangram(string sentence) {
-        vector<bool> v(26,0);
-
-        for(auto i:sentence){
-            int idx = i-'a';
-            v[idx] = 1;
-        }
-
-        for(auto i:v){
-            if(i == 0){
-                return 0;
-            }
-        }
-
-        return 1;
+    bool checkIfPangram(string sent) {
+        set<char> uniqueChars;
+        for(int i=0;i<sent.size();i++){
+            uniqueChars.insert(sent[i]);
+        } 
+        return uniqueChars.size() == 26;   
     }
 };
