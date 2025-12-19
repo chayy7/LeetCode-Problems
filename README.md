@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3463-alternating-groups-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/chayy7/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -493,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
