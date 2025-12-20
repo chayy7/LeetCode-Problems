@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/chayy7/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/chayy7/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
