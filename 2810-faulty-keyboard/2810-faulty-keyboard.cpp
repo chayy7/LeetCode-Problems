@@ -1,20 +1,16 @@
 class Solution {
 public:
     string finalString(string s) {
-        
+        int n=s.size();
         string ans = "";
-        // great!!
-        for(int i=0;i<s.size();i++){
+        for(int i=0;i<n;i++){
             if(s[i] == 'i'){
-                reverse(ans.begin(), ans.end());
+                reverse(ans.begin(),ans.end());
             }else{
-                
                 ans += s[i];
             }
         }
+
         return ans;
-        
     }
 };
-
-// start karo
