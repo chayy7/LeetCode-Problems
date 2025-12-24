@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
+| [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [2761-prime-pairs-with-target-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2810-faulty-keyboard](https://github.com/chayy7/LeetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
+| [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 ## Stack
 |  |
