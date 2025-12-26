@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chayy7/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
