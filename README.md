@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/chayy7/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/chayy7/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/chayy7/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/chayy7/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/chayy7/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 ## String Matching
 |  |
