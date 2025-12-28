@@ -1,18 +1,15 @@
 class Solution {
 public:
-    int countNegatives(vector<vector<int>>& arr) {
-        int row = arr.size();
-        int col = arr[0].size();
-        int count = 0;
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(arr[i][j] < 0){
-                    count++;
+    int countNegatives(vector<vector<int>>& grid) {
+        int cnt=0;
+        for(auto i:grid){
+            for(auto j:i){
+                if(j < 0){
+                    cnt++;
                 }
             }
         }
-        return count;
-        
-         
+
+        return cnt;
     }
 };
