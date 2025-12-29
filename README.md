@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chayy7/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/chayy7/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-strictly-palindromic-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/chayy7/LeetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/chayy7/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/chayy7/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Backtracking
