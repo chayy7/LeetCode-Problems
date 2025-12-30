@@ -10,9 +10,6 @@ public:
         if(v.size() < 3){
             return *max_element(v.begin(),v.end());
         }
-
-            
-
         return v[v.size()-3];   
     }
 };
