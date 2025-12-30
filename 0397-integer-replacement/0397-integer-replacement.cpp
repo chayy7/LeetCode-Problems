@@ -1,29 +1,20 @@
 class Solution {
 public:
-    int integerReplacement(int n) {
-        long long cnt=0;
-
-        long long o=n;
-        while(o != 1){
-            if(o % 2 == 0){
-                o /= 2;
-                cnt+=1;
-
-            }else{
-                if(o == 3) {
-                    o-= 1;
-                    cnt += 1;
-                } else if((o + 1)%4== 0) {
-                    o+= 1;
-                    cnt += 1;
-                } else {
-                    o -= 1;
-                    cnt += 1;
+    int integerReplacement(int num) {
+        long long n = num;
+        int count = 0;
+        while (n > 1) {
+            if (n % 2 == 0) {
+                n = n / 2;
+            } else {
+                if (n == 3 || (n - 1) % 4 == 0) {
+                    n = n - 1;
+                }else{
+                    n = n + 1;
                 }
-
             }
+            count += 1;
         }
-
-        return cnt;
+        return count;
     }
 };
