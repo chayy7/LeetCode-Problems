@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chayy7/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/chayy7/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
