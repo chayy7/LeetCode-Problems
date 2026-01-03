@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chayy7/LeetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chayy7/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chayy7/LeetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2481-strictly-palindromic-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Simulation
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chayy7/LeetCode-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chayy7/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Quickselect
 |  |
 | ------- |
