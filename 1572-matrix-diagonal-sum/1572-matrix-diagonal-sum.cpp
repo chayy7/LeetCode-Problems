@@ -1,22 +1,21 @@
 class Solution {
 public:
     int diagonalSum(vector<vector<int>>& mat) {
-        int n=mat.size();
-        int m=mat[0].size();
-
-        // vector<int> v;
-
-        int sum=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if((i-j) == 0 || (i+j)%(n-1) == 0){
+        int row = mat.size();
+        int col = mat[0].size();
+        int sum = 0;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(i == j){
+                    sum += mat[i][j];
+                }else if(i + j == row -1){
                     sum += mat[i][j];
                 }
             }
         }
-        
         return sum;
-
-
+        
     }
 };
+
+// y not dhurandhar? 
