@@ -1,40 +1,55 @@
 class Solution {
 public:
-    vector<int> divcnt(int n){
-        vector<int> v;
-        for(int i=1;i<= int(sqrt(n));i++){
-            if(n%i == 0){
-                // cnt++;
-                v.push_back(i);
-                if(n/i != i){
-                    v.push_back(n/i);
-                    // cnt++;
+    int sumFourDivisors(vector<int>& nums) {
+        int finalAns = 0;
+        for(auto num:nums){
+            int count = 0;
+            int ans = 0;
+            
+            for(int i=1;i<= int(sqrt(num));i++){
+                if(num % i == 0){
+                    count++;
+                    ans += i;
+                    if(num/i != i){
+                        count++;
+                        ans+= num/i;
+                    }
                 }
             }
-        }
-
-        return v;
-    }
-    int sumFourDivisors(vector<int>& nums) {
-        
-
-        vector<vector<int>> c;
-        for(int i=0;i<nums.size();i++){
-            if(divcnt(nums[i]).size() == 4){
-                c.push_back(divcnt(nums[i]));
+            if(count == 4){
+                finalAns += ans;
             }
         }
-
-        int s = 0;
-
-        for(auto i:c){
-            for(auto j:i){
-                cout << j << " ";
-                s += j;
-            }
-            cout << endl;
-        }
-        return s;
-
+        return finalAns;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// after this ques 55, 860, u keep on doing , i ll be back in 5 mins
