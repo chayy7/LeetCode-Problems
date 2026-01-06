@@ -1,40 +1,46 @@
 class Solution {
 public:
+    void bfs(map<int,vector<int>>& adj, vector<int>& vis, int i){
+        queue<int> q;
+        q.push(i);
 
-    void dfs(vector<vector<int>>& v,vector<int>& vis,int i){
-        vis[i]=1;
+        vis[i] = 1;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
 
-        for(auto ii:v[i]){
-            if(!vis[ii]){
-                dfs(v,vis,ii);
+            for(auto i: adj[node]){
+                if(!vis[i]){
+                    vis[i] = 1;
+                    q.push(i);
+                }
             }
         }
+
 
     }
     int findCircleNum(vector<vector<int>>& isc) {
         int n=isc.size();
-        vector<vector<int>> v(n);
+        map<int,vector<int>> adj;
+
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(i!=j && isc[i][j]){
-                    v[i].push_back(j);
+                if(i != j && isc[i][j]){
+                    adj[i].push_back(j);
                 }
             }
         }
 
         vector<int> vis(n,0);
-        int cnt=0;
+        int cnt =0;
         for(int i=0;i<n;i++){
             if(!vis[i]){
                 cnt++;
-                dfs(v,vis,i);   
-
+                bfs(adj,vis,i);
             }
         }
 
-
         return cnt;
-
 
 
 
