@@ -1,48 +1,29 @@
 class Solution {
 public:
     TreeNode* reverseOddLevels(TreeNode* root) {
-
-        if(root == nullptr) return root;
-
-        // vector<vector<int>> v;
         queue<TreeNode*> q;
         q.push(root);
-
-        int cnt =0;
+        int level;
         while(!q.empty()){
-            int size = q.size();
-            vector<TreeNode* > lvl;
-
-            for(int i=0;i<size;i++){
-                auto front = q.front();
+            int s = q.size();
+            vector<int> vals;
+            vector<TreeNode*> node;
+            while(s--){
+                TreeNode* temp = q.front();
                 q.pop();
-
-                lvl.push_back(front);
-
-                if(front->left) q.push(front->left);
-                if(front->right) q.push(front->right);
+                vals.push_back(temp->val);
+                node.push_back(temp);
+                if(temp->left)q.push(temp->left);
+                if(temp->right)q.push(temp->right);
             }
-
-            if(cnt % 2 != 0){
-                int l=0,r=lvl.size()-1;
-                while(l < r){
-
-                    swap(lvl[l]->val, lvl[r]->val);
-                    l++, r--;
+            if(level % 2 != 0){
+                reverse(vals.begin(), vals.end());
+                for(int i=0;i<node.size();i++){
+                    node[i]->val = vals[i];
                 }
             }
-            
-            cnt++;
+            level++;
         }
-
-        // for(auto i:v){
-        //     for(auto j:i){
-        //         cout << j << " ";
-        //     }
-        //     cout << endl;
-        // }
-
         return root;
-
     }
 };
