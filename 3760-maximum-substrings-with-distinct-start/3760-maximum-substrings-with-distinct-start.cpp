@@ -1,7 +1,10 @@
 class Solution {
 public:
     int maxDistinct(string s) {
-        set<int> st(s.begin(),s.end());
-        return st.size();
+        unordered_set<char> unique_chars;
+        for(auto i: s){
+            unique_chars.insert(i);
+        }
+        return unique_chars.size();
     }
 };
