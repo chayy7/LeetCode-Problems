@@ -1,33 +1,26 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        
-        
-        map<char,int> mpp;
-        for(auto i:s){
-            mpp[i]++;
+        unordered_map<char, int> freq;
+        for (auto i : s) {
+            freq[i]++;
         }
-        
-        // Custom Sort
-        vector<pair<int,int>> v(mpp.begin(),mpp.end()); //Copying of map To Pair Based Vector
-        
-        sort(v.begin(),v.end(),[](auto &a, auto&b){
-            return a.second > b.second;
-        });
-        
-        
-        
-        
-        
-        
         string ans = "";
-        for(auto &i:v){
-            while(i.second > 0){
-                ans += i.first;
-                i.second--;
+        while (!freq.empty()) {
+            int max_freq = 0;
+            char max_char;
+            for (auto& i : freq) {
+                if (i.second > max_freq) {
+                    max_freq = i.second;
+                    max_char = i.first;
+                }
             }
+            while(max_freq--){
+                
+                ans += max_char;
+            }
+            freq.erase(max_char);
         }
-        
         return ans;
     }
 };
