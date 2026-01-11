@@ -1,28 +1,25 @@
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
-        map<int,int> mpp;
-        for(auto i:nums){
-            mpp[i]++;
+        unordered_map<int, int> freq;
+        for(auto i: nums){
+            freq[i]++;
         }
-
-        vector<pair<int,int>> v(mpp.begin(),mpp.end());
-
-        sort(v.begin(), v.end(), [](auto &a, auto &b){
-            if (a.second == b.second)
-                return a.first > b.first; 
-            return a.second < b.second;
-        });
-        
-        vector<int> ans;
-        for(auto &i:v){
-            while(i.second > 0){
-                ans.push_back(i.first);
-                i.second--;
+        vector<int>ans;
+        while(!freq.empty()){
+            int min_freq = INT_MAX;
+            int min_num = 0;
+            for(auto &i: freq){
+                if(i.second < min_freq || (i.second == min_freq && i.first > min_num)){
+                    min_freq = i.second;
+                    min_num = i.first;
+                }
             }
-                
+            while(min_freq--){
+                ans.push_back(min_num);
+            }
+            freq.erase(min_num);
         }
-
         return ans;
     }
 };
