@@ -1,0 +1,10 @@
+class Solution {
+public:
+    int reverseDegree(string s) {
+        int cnt = 0;
+        for(int i=1;i<=s.size();i++){
+            cnt += i * ('z' - s[i-1] + 1);
+        }
+        return cnt;
+    }
+};
