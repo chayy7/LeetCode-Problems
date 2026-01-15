@@ -1,18 +1,20 @@
 class Solution {
 public:
     vector<int> intersection(vector<vector<int>>& nums) {
-        map<int,int> mpp;
+        int n = nums.size();
+        vector<int> ans;
+        map<int, int> freq;
         for(auto i:nums){
             for(auto j:i){
-                mpp[j]++;
+                freq[j]++;
             }
         }
-
-        vector<int> v;
-        for(auto i:mpp){
-            if(i.second == nums.size()) v.push_back(i.first);
+        for(auto &i: freq){
+            if(i.second == n){
+                ans.push_back(i.first);
+            }
         }
-
-        return v;
+        if(ans.size() == 0)return {};
+        return ans;
     }
 };
