@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2481-strictly-palindromic-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
+| [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
