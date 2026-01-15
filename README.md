@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chayy7/LeetCode-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chayy7/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
