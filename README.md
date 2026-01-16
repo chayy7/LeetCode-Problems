@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/chayy7/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
