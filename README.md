@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/chayy7/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chayy7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/chayy7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Counting
 |  |
 | ------- |
