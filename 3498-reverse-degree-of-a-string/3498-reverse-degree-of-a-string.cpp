@@ -1,10 +1,14 @@
 class Solution {
 public:
+    
     int reverseDegree(string s) {
-        int cnt = 0;
-        for(int i=1;i<=s.size();i++){
-            cnt += i * ('z' - s[i-1] + 1);
+        int sum_pruduct = 0;
+        for(int i=0;i<s.size();i++){
+            int idx = i+1;
+            int alpha_number = 'z' - s[i] + 1;
+            int product = idx * alpha_number;
+            sum_pruduct += product;
         }
-        return cnt;
+        return sum_pruduct;
     }
 };
