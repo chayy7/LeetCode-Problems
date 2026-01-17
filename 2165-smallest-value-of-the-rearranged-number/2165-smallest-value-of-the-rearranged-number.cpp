@@ -4,7 +4,7 @@ public:
         if (num == 0) return 0;
         long long org = num;
         vector<string> v;
-        long long numm = llabs(num);
+        long long numm = abs(num);
         while(numm > 0){
                 int rem = numm%10;
                 v.push_back(to_string(rem));
