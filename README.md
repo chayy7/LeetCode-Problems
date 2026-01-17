@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/chayy7/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/chayy7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/chayy7/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/chayy7/LeetCode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0860-lemonade-change](https://github.com/chayy7/LeetCode-Problems/tree/master/0860-lemonade-change) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/chayy7/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/chayy7/LeetCode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
