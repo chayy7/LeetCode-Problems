@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1791-richest-customer-wealth](https://github.com/chayy7/LeetCode-Problems/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/chayy7/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chayy7/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chayy7/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
