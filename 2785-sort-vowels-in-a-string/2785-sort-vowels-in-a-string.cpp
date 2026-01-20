@@ -1,48 +1,32 @@
 class Solution {
 public:
     string sortVowels(string s) {
-        int n=s.size();
-
-        vector<int> upper(26,0);
-        vector<int> lower(26,0);
-
-        for(int i=0;i<s.size();i++){
-            if(s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U'){
-                int idx = s[i]-'A';
-                upper[idx]++;
-                s[i] = '#';
+        int n = s.size();
+        string ans = "";
+        string vowels=""; 
+        for(auto i: s){
+            if(i == 'a' || i == 'e' || i == 'i' || i == 'o' || i == 'u' || i == 'A' || i == 'E'|| i == 'I' || i == 'O' || i == 'U'){
+                vowels += i;
+                ans += "0";
+            }else{
+                
+            ans += i;
             }
-            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u'){
-                int idx = s[i]-'a';
-                lower[idx]++;
-                s[i] = '#';
+            
+        }
+        sort(vowels.begin(), vowels.end());
+        cout << vowels << "\n";
+                
+        string finAns = "";
+        int idx = 0; 
+        for(int i=0;i<ans.size();i++){
+            if(ans[i] == '0'){
+                finAns += vowels[idx];
+                idx++; 
+            }else{
+                finAns += ans[i];
             }
         }
-
-        string key="";
-        for(int i=0;i<26;i++){
-            char c= i+'A';
-            for(int j=0;j<upper[i];j++){
-                key += c;
-            }
-        }
-        for(int i=0;i<26;i++){
-            char c= i+'a';
-            for(int j=0;j<lower[i];j++){
-                key += c;
-            }
-        }
-
-
-        int j=0;
-
-        for(int i=0;i<s.size();i++){
-            if(s[i] == '#'){
-                s[i]=key[j];
-                j++;
-            }
-        }
-
-        return s;
+        return finAns;
     }
 };
