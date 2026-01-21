@@ -1,32 +1,29 @@
 class Solution {
 public:
     int minPairSum(vector<int>& nums) {
-        sort(nums.begin() , nums.end());
-
-        int l=0, r= nums.size() - 1;
-
-        vector<int> v;
-        while(l <= r){
-            v.push_back(nums[l]);
-            v.push_back(nums[r]);
-            l++;
-            r--;
+        vector<int> new_nums;
+        sort(nums.begin(), nums.end());
+        int st = 0, end = nums.size() - 1;
+        while(st < end){
+            new_nums.push_back(nums[st]);
+            new_nums.push_back(nums[end]);
+            st++;
+            end--;
         }
-
-        for(auto i:v){
+        for(auto i: new_nums){
             cout << i << " ";
         }
-
-        int i=0, j =1;
-        int maxi = INT_MIN;
-        while(j < v.size()){
-            maxi = max(maxi, v[i] + v[j]);
-            i+=2;
-            j += 2;
+        int left = 0, right = 1;
+        int maxSum = INT_MIN;
+        while(right < new_nums.size()){
+            maxSum = max(maxSum, new_nums[left] + new_nums[right]);
+            left += 2;
+            right += 2;
         }
-
-
-        return maxi;
-
+        
+        
+        
+   
+        return maxSum;
     }
 };
