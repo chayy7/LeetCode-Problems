@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chayy7/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/chayy7/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/chayy7/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
