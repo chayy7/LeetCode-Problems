@@ -5,16 +5,23 @@ public:
             i = tolower(i);
         }
 
-        string ans = "";
-        for(auto i:s){
-            if(isalnum(i)){
-                ans += i;
+        int l=0, r= s.size()-1;
+        while(l <= r){
+            if(!isalnum(s[l])){
+                l++;
+            }else if(!isalnum(s[r])){
+                r--;
+            }else if(s[l] != s[r]){
+                return false;
+            }else{
+                l++;
+                r--;
             }
+            
         }
 
-        string s1= ans;
-        reverse(s1.begin(), s1.end());
-
-        return s1==ans;
+        
+        
+        return true;
     }
 };
