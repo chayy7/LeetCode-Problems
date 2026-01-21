@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chayy7/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chayy7/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
