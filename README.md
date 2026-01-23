@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chayy7/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/chayy7/LeetCode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/chayy7/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chayy7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chayy7/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chayy7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -839,5 +841,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
