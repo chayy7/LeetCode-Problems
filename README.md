@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/chayy7/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/chayy7/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
