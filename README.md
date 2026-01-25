@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3463-alternating-groups-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3463-alternating-groups-i) |
 ## Tree
 |  |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
 | ------- |
