@@ -8,6 +8,7 @@ public:
         }
         return count;
     }
+    
     bool isPrime(int n){
         if(n <= 1)return false;
         if(n == 2)return true;
@@ -20,7 +21,7 @@ public:
     int countPrimeSetBits(int left, int right) {
         int count = 0;
         for(int i=left;i<=right;i++){            
-            int bit_count = count_bits(i);
+            int bit_count = __builtin_popcount(i);
             cout << bit_count << endl;
             if(isPrime(bit_count)){
                 count++;
