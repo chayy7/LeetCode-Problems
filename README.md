@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/chayy7/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chayy7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/chayy7/LeetCode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
