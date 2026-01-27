@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2761-prime-pairs-with-target-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
+| [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
