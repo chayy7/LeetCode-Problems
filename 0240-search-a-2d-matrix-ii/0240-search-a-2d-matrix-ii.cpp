@@ -1,23 +1,22 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& arr, int target) {
-        int row = arr.size();
-        int col = arr[0].size();
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(arr[i][j] == target){
-                    return true;
-                }
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+        int n= mat.size();
+        int m= mat[0].size();
+
+        int l= 0;
+        int r = m-1;
+
+        while( r>= 0 && l< n){
+            if(mat[l][r] == target){
+                return true;
+            }else if(mat[l][r] > target){
+                r--;
+            }else{
+                l++;
             }
-            
         }
+
         return false;
-        
     }
 };
-
-
-/* 
-
-
- */
