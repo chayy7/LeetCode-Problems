@@ -1,27 +1,22 @@
 class Solution {
 public:
-    bool searchMatrix(vector<vector<int>>& arr, int target) {
-        int row = arr.size();
-        int col = arr[0].size();
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if(arr[i][j] == target){
-                    return true;
-                }
+    bool searchMatrix(vector<vector<int>>& mat, int target) {
+        int n= mat.size();
+        int m= mat[0].size();
+
+        int l=0, r= n*m-1;
+        while(l <= r){
+            int mid =( l+r)/2;
+            int rr = mid/m;
+            int c = mid%m;
+            if(mat[rr][c] == target){
+                return true;
+            }else if(mat[rr][c] < target){
+                l = mid+1;
+            }else{
+                r= mid-1;
             }
-            
         }
         return false;
-        
     }
 };
-
-/* 
-   
-    
-    
-    
-    
-    
-    
- */
