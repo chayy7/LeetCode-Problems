@@ -1,23 +1,16 @@
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& arr, int k) {
-        vector<int> v; 
-        
-        
-        for(auto i:arr){
-            for(auto j:i){
-                v.push_back(j);
-                
+    int kthSmallest(vector<vector<int>>& matrix, int k) { 
+        vector<int> nums;
+        for(auto i: matrix){
+            for(auto j: i){
+                nums.push_back(j);
             }
         }
-        
-        sort(begin(v),end(v)); 
-        
-        return v[k-1];
+        sort(nums.begin(), nums.end());
+        for(auto i: nums){
+            cout << i << " ";
+        }
+        return nums[k-1];
     }
 };
-
-
-
-/*
- */
