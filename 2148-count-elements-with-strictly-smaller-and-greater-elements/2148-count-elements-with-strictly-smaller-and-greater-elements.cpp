@@ -1,18 +1,15 @@
 class Solution {
 public:
     int countElements(vector<int>& nums) {
-        if (nums.size() < 3) return 0;
-
         sort(nums.begin(), nums.end());
 
-        int mn = nums.front();
-        int mx = nums.back();
-
-        int cnt = 0;
-        for (int x : nums) {
-            if (x > mn && x < mx)
-                cnt++;
+        int mn = nums[0];
+        int mx = nums[nums.size()-1];
+        int cnt =0;
+        for(auto i:nums){
+            if(i > mn && i<mx) cnt++;
         }
+
         return cnt;
     }
 };
