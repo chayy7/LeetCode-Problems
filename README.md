@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/chayy7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/chayy7/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/chayy7/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chayy7/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chayy7/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
