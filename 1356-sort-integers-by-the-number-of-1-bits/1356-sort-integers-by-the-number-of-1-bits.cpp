@@ -1,22 +1,28 @@
+bool comp(pair<int, int>a, pair<int, int>b){
+    if(a.second != b.second)
+        return a.second < b.second;
+    return a.first < b.first;
+}
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        vector<pair<int,int>> p;
-        for(int i=0;i<arr.size();i++){
-            int cnt = __builtin_popcount(arr[i]);
-            p.push_back({arr[i], cnt});
+        map<int,int> bitCount;
+        for(auto i: arr){
+        
+            bitCount[i] = __builtin_popcount(i);
         }
-
-        sort(p.begin(), p.end(), [](auto &a, auto &b){
-            if(a.second != b.second)
-                return a.second < b.second;
-            return a.first < b.first;
-        });
-
+        for(auto i: bitCount){
+            cout << i.first << " "<< i.second << "\n";
+        }
         vector<int> ans;
-        for(auto i:p){
+        
+         vector<pair<int,int>> sort_bitCout(bitCount.begin(), bitCount.end());
+         sort(sort_bitCout.begin(), sort_bitCout.end(), comp);
+         
+         for(auto i:sort_bitCout){
             ans.push_back(i.first);
-        }
+         }
+
 
         return ans;
     }
