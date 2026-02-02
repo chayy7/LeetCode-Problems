@@ -6,15 +6,15 @@ bool comp(pair<int, int>&a, pair<int, int>&b){
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
+        multimap<int,int> bitCount;
+        for(auto i: arr){
+            bitCount.insert({i,__builtin_popcount(i)});
+        }
+        vector<int> ans;
         
-         vector<pair<int,int>> sort_bitCout;
-         for(int i=0;i<arr.size();i++){
-            int cnt = __builtin_popcount(arr[i]);
-            sort_bitCout.push_back({arr[i], cnt});
-         }
+         vector<pair<int,int>> sort_bitCout(bitCount.begin(), bitCount.end());
          sort(sort_bitCout.begin(), sort_bitCout.end(), comp);
          
-        vector<int> ans;
          for(auto i:sort_bitCout){
             ans.push_back(i.first);
          }
