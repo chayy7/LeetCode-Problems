@@ -1,9 +1,10 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(Node* root) {
+        vector<vector<int>> ans; 
+        if(!root) return ans;
         queue<Node*> q;
         q.push(root);
-        vector<vector<int>> ans ; 
         
         while(!q.empty()){
             int size = q.size();
