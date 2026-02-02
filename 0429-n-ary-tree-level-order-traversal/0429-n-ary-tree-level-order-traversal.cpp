@@ -4,12 +4,12 @@ public:
         queue<Node*> q;
         q.push(root);
         vector<vector<int>> ans ; 
-        Node* temp;
+        
         while(!q.empty()){
             int size = q.size();
             vector<int> nodes;
             while(size--){
-                temp = q.front();
+                auto temp = q.front();
                 q.pop();
                 nodes.push_back(temp->val);
                 
