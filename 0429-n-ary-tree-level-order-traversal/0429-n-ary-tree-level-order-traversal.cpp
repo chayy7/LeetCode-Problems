@@ -9,7 +9,7 @@ public:
             int size = q.size();
             vector<int> nodes;
             while(size--){
-                auto temp = q.front();
+                Node* temp = q.front();
                 q.pop();
                 nodes.push_back(temp->val);
                 
