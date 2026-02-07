@@ -18,8 +18,7 @@ public:
             }
             p = i.first;
             flag=true;
-        }
-        
+        }        
         return ans;
         
         
