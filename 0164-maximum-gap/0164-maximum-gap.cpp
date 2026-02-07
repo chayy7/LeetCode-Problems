@@ -1,27 +1,16 @@
 class Solution {
 public:
     int maximumGap(vector<int>& nums) {
-        int n=nums.size();
-        if(n < 2) return 0;
-        map<int,int> mpp;
-        for(auto i:nums){
-            mpp[i] = 1;
+        if(nums.size() < 2)return 0;
+        sort(nums.begin(), nums.end());
+        int maxGap = INT_MIN;
+        int left = 0, right = 1; 
+        while(right < nums.size()){
+            int gap = nums[right] - nums[left]; 
+            maxGap = max(maxGap, gap);
+            left++, right++;
         }
-        
-        bool flag = false;
-        int ans = 0;
-        int p = 0;
-        for(auto i:mpp){
-            if(flag){
-                ans = max(ans, i.first - p);
-               
-            }
-            p = i.first;
-            flag=true;
-        }        
-        return ans;
-        
-        
+        return maxGap;
         
     }
 };
