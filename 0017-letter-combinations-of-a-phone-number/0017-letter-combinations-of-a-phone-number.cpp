@@ -14,20 +14,19 @@ public:
         mpp[9] = "wxyz";
 
         vector<string> ans;
-        ans.push_back(""); 
-        for (char d : digits) {
-            int num = d - '0';
-            string letters = mpp[num];
+        ans.push_back("");
 
+        for(auto i:digits){
+            int num = i-'0';
+            string str= mpp[num];
             vector<string> temp;
-            for (string s : ans) {
-                for (char ch : letters) {
-                    temp.push_back(s + ch);
+            for(auto j:ans){
+                for(auto k: str){
+                    temp.push_back(j+k);
                 }
             }
             ans = temp;
         }
-
         return ans;
     }
 };
