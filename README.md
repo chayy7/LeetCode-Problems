@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/chayy7/LeetCode-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3637-trionic-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3637-trionic-array-i) |
 | [3697-compute-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3697-compute-decimal-representation) |
+| [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chayy7/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chayy7/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -964,4 +968,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
