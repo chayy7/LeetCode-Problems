@@ -1,25 +1,23 @@
 class Solution {
 public:
-    void func(int n, vector<string>& ans, int open, int close,string curr){
+    void gen(int n, string curr, vector<string>& ans, int open, int close){
         if(curr.size() == 2*n){
             ans.push_back(curr);
             return;
         }
-
         if(open < n){
-            func(n, ans, open+1, close, curr+'(');
+            gen(n, curr+'(', ans, open+1, close);
         }
-
         if(close < open){
-            func(n, ans, open, close+1, curr+')');
-        }
+            gen(n, curr+')', ans, open, close+1); 
+        }        
     }
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        int open =0;
-        int close = 0;
         string curr = "";
-        func(n , ans, open, close, curr);
+        int open = 0;
+        int close = 0;
+        gen(n, curr, ans, open, close);
         return ans;
     }
 };
