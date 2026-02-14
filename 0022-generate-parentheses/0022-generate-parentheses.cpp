@@ -7,6 +7,7 @@ public:
         }
         if(open < n){
             gen(n, curr+'(', ans, open+1, close);
+            
         }
         if(close < open){
             gen(n, curr+')', ans, open, close+1); 
