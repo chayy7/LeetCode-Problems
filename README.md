@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/chayy7/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/chayy7/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/chayy7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/chayy7/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chayy7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/chayy7/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chayy7/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/chayy7/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/chayy7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/chayy7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chayy7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chayy7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0461-hamming-distance) |
