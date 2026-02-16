@@ -18,6 +18,7 @@ class Solution:
             l+=1
             r+=1
             
+            
         for i in g:
             if i in s:
                 ycnt+=1
