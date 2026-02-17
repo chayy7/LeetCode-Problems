@@ -831,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/chayy7/LeetCode-Problems/tree/master/0401-binary-watch) |
 ## String Matching
 |  |
 | ------- |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/chayy7/LeetCode-Problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
