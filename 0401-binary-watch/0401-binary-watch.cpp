@@ -8,7 +8,6 @@ public:
             for(int min=0;min<60;min++){ 
                 int min_bit_count = __builtin_popcount(min);
                 if((hr_bit_count + min_bit_count) == (turnedOn)){
-                    
                     string time = "";
                     if(min <= 9){
                         time = to_string(hr) + ":0" + to_string(min);
