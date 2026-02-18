@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/chayy7/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/chayy7/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/chayy7/LeetCode-Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chayy7/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/chayy7/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/chayy7/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/chayy7/LeetCode-Problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0461-hamming-distance) |
