@@ -1,25 +1,23 @@
 class Solution {
 public:
     vector<string> readBinaryWatch(int turnedOn) {
-        if(turnedOn >= 9)return {};
         vector<string> ans;
-        for(int hr=0;hr<12;hr++){ 
-            int hr_bit_count = __builtin_popcount(hr);
-            for(int min=0;min<60;min++){ 
-                int min_bit_count = __builtin_popcount(min);
-                if((hr_bit_count + min_bit_count) == (turnedOn)){
-                    string time = "";
-                    if(min <= 9){
-                        time = to_string(hr) + ":0" + to_string(min);
-                    }else{
-                        
-                        time = to_string(hr) + ":" + to_string(min);
+        for(int hour = 0;hour < 12; hour++){
+            for(int min=0; min< 60;min++){
+                string lvl ="";
+                if(__builtin_popcount(hour) + __builtin_popcount(min) == turnedOn){
+                    lvl += to_string(hour)+":";
+                    if(min < 10){
+                        lvl += "0";
                     }
-                    ans.push_back(time);
+                    lvl += to_string(min);
+                    ans.push_back(lvl);
                 }
+
+                
+                
             }
         }
-        return ans;
-            
+        return ans;         
     }
 };
