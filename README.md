@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chayy7/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chayy7/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/chayy7/LeetCode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
@@ -961,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
