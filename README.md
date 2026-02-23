@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/chayy7/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chayy7/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chayy7/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/chayy7/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/chayy7/LeetCode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chayy7/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/chayy7/LeetCode-Problems/tree/master/0198-house-robber) |
