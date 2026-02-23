@@ -1,44 +1,38 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        if (nums.empty()) return {-1, -1};
+    int fbs(vector<int>& nums, int target){
         int n=nums.size();
-        int l=0;
-        int r= n-1;
 
-        int lwr = -1;
-        int upr = -1;
-
+        int l=0, r=n-1;
         while(l <= r){
-            int mid = (l+r)/2;
-
-            if(nums[mid] >= target){
-                r = mid-1;
-            }else if(nums[mid] < target){
+            int mid= l+(r-l)/2;
+            if(target <= nums[mid]){
+                r=mid-1;
+            }else{
                 l=mid+1;
-            } 
-        }
-        if(l == n || nums[l] != target){
-            return {-1,-1};
-        }
-        lwr= l;
-
-        cout << lwr;
-
-        int l1=0;
-        int r1 = n-1;
-        while(l1 <= r1){
-            int mid = (l1+r1)/2;
-            if(nums[mid] > target){
-                r1 = mid-1;
-            }else if(nums[mid] <= target){
-                l1 = mid+1;
             }
         }
+        return l;
+    }
+    int lbs(vector<int>& nums, int target){
+        int n=nums.size();
 
-        upr=r1;
-        cout << upr;
-        return {lwr,upr};
+        int l=0, r=n-1;
+        while(l <= r){
+            int mid= l+(r-l)/2;
+            if(target < nums[mid]){
+                r=mid-1;
+            }else{
+                l=mid+1;
+            }
+        }
+        return r;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int a= fbs(nums, target);
+        int b= lbs(nums, target);
 
+        if(a > b) return {-1,-1};
+        return {a,b};
     }
 };
