@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/chayy7/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chayy7/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chayy7/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chayy7/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chayy7/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1688-count-of-matches-in-tournament](https://github.com/chayy7/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2058-concatenation-of-array) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chayy7/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chayy7/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-decode-xored-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/chayy7/LeetCode-Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
