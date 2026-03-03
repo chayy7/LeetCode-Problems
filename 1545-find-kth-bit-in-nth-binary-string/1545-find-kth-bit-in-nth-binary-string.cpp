@@ -20,8 +20,8 @@ public:
 
     char findKthBit(int n, int k) {
 
-        string s = "0"; 
-
+        string s = "0";
+        
         for(int i = 2; i <= n; i++){
             string temp = toggle(s);
             temp = reverseStr(temp);
