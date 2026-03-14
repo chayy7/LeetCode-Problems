@@ -1,31 +1,42 @@
 class Solution {
 public:
-    void func(TreeNode* root, vector<string>& ans, string temp){
+    void pre(TreeNode* root, vector<string> &arr, string temp){
         if(!root) return;
-
-        temp += to_string(root->val);
+        temp+= to_string(root->val);
         if(!root->left && !root->right){
-            ans.push_back(temp);
+            arr.push_back(temp);
             return;
         }
-
-        func(root->left, ans, temp);
-        func(root->right, ans, temp);
+        pre(root->left, arr,temp);
+        pre(root->right, arr,temp);
+    }
+    int toDec(string s){
+        int sum = 0;
+        int p = 1;
+        for(int i=s.size()-1;i>=0;i--){
+            if(s[i] == '1'){
+                sum += p;
+            }
+            p *= 2;
+        }
+        return sum;
     }
     int sumRootToLeaf(TreeNode* root) {
-        vector<string> ans;
-
-        func(root, ans,"");
-        // for(auto i:ans){
-        //     cout << i << " ";
-        // }
-
-        int anss=0;
-        for(auto i:ans){
-            anss += stoi(i, nullptr, 2);
-        }
-        cout << anss;
+       
+        vector<string> arr; 
         
-        return anss;
+        pre(root, arr,"");
+        for(auto i:arr){
+            cout << i << " ";
+        }
+        
+        
+        int n = arr.size();
+        int ans = 0;
+        for(int i=0;i<n;i++){
+            ans+= toDec(arr[i]);
+        }
+        
+        return ans; 
     }
 };
