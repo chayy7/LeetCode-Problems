@@ -17,8 +17,7 @@ public:
             }
             ptr *= 2;
         }
-        
-        return sum;
+         return sum;
     }
     int findComplement(int num) {
         if(num == 1) return 0;
