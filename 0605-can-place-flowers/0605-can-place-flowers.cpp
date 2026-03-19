@@ -10,56 +10,51 @@ public:
                 if(flowerbed[i] == 0){
                     
                     if(i != 0 && flowerbed[i-1] == 1){
-                        i++;
-                        continue;
+                        i++; continue;  // can't return false here
                     }
                     
                     if(i != s-1 && flowerbed[i+1] == 1){
-                        i++;
-                        continue;
+                        i++; continue;
                     }
                     
                     flowerbed[i] = 1;
                     n--;
-                    i += 2;
-                    continue;
                 }
                 
-                i++;
+                i += 2;
             }
         }
-        
-        else {  
+
+        if(flowerbed[0] == 0){
             if(n > 0 && (s == 1 || flowerbed[1] == 0)){
                 flowerbed[0] = 1;
                 n--;
             }
 
-            int i = 2; 
+            int i = 2;
             while(i < s && n > 0){
                 
                 if(flowerbed[i] == 0){
                     
-                    if(flowerbed[i-1] == 1){
-                        i++;
-                        continue;
+                    if(i != 0 && flowerbed[i-1] == 1){
+                        i++; continue;
                     }
                     
                     if(i != s-1 && flowerbed[i+1] == 1){
-                        i++;
-                        continue;
+                        i++; continue;
                     }
                     
                     flowerbed[i] = 1;
                     n--;
-                    i += 2;
-                    continue;
                 }
                 
-                i++;
+                i += 2;
             }
         }
 
-        return n <= 0;
+        if(n > 0){
+            return false;
+        }
+        return true;
     }
 };
