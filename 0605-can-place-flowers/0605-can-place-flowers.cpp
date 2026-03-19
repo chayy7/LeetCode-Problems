@@ -10,7 +10,7 @@ public:
                 if(flowerbed[i] == 0){
                     
                     if(i != 0 && flowerbed[i-1] == 1){
-                        i++; continue;  // can't return false here
+                        i++; continue;  
                     }
                     
                     if(i != s-1 && flowerbed[i+1] == 1){
