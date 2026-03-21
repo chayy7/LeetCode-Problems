@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/chayy7/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/chayy7/LeetCode-Problems/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/chayy7/LeetCode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1925-count-square-sum-triples](https://github.com/chayy7/LeetCode-Problems/tree/master/1925-count-square-sum-triples) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
