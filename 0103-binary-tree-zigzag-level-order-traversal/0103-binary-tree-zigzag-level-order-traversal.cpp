@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        
         vector<vector<int>> ans;
         if(root == NULL){
             return ans;
@@ -28,7 +29,6 @@ public:
                 reverse(temp.begin(), temp.end());
                 ans.push_back(temp);
             } else {
-
                 ans.push_back(temp);
             }
             lev++;
