@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/chayy7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/chayy7/LeetCode-Problems/tree/master/0504-base-7) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/chayy7/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/chayy7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/chayy7/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/chayy7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
