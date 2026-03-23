@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/chayy7/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/chayy7/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/chayy7/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/chayy7/LeetCode-Problems/tree/master/0739-daily-temperatures) |
