@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2595-number-of-even-and-odd-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/chayy7/LeetCode-Problems/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 ## Number Theory
 |  |
 | ------- |
