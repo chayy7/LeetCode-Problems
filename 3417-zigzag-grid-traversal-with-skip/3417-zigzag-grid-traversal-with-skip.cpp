@@ -1,26 +1,21 @@
 class Solution {
 public:
-    vector<int> zigzagTraversal(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
-        
-        vector<int> v;
-        for(int i=0;i<n;i++){
-
-            if(i%2 != 0){
-                reverse(grid[i].begin(), grid[i].end());
-
-            }
-            for(auto k:grid[i]){
-                
-                v.push_back(k);
-            }
-        }
+    vector<int> zigzagTraversal(vector<vector<int>>& arr) {
         vector<int> ans;
-        int i=0;
-        while(i < v.size()){
-            ans.push_back(v[i]);
-            i+=2;
+        int row = arr.size();
+        int col = arr[0].size();
+        for(int i=0;i<row;i++){
+            if(i % 2 == 0){
+                for(int j=0;j<col;j++){
+                    if((i+j) % 2 == 1) continue;
+                    ans.push_back(arr[i][j]);
+                }
+            }else{
+                for(int j=col-1;j>=0;j--){
+                    if((i+j) % 2 == 1) continue;
+                    ans.push_back(arr[i][j]);
+                }
+            }
         }
         return ans;
     }
