@@ -2,20 +2,15 @@ class Solution {
 public:
     bool isOneBitCharacter(vector<int>& bits) {
         int n = bits.size();
-        
-        if(n == 1 && bits[0] == 0) return true;
-        int i=0;
-        while(i < n-1){
-            if(bits[i] == 1){
-                i+=2;
-            }else{
-                i++;
+        int pointer = 0;
+        while(pointer < n-1){
+            if(bits[pointer] == 1){
+                pointer += 2;
+            }
+            else{
+                pointer++;
             }
         }
-        
-        if(i == n-1){
-            return true;
-        }
-        return false;
+        return pointer == n-1;
     }
 };
