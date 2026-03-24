@@ -12,7 +12,14 @@ public:
     }
     int tribonacci(int n) {
         vector<int> dp(n+1, -1);
+        // dp[0]=0;
+        // dp[1]=1;
+        // dp[2]=1;
+        // for(int i=3;i<=n;i++){
+        //     dp[n] = dp[n-1]+dp[n-2]+dp[n-3];
+        // }
         return func(n, dp);
+        
 
     }
 };
