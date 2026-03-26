@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/chayy7/LeetCode-Problems/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/chayy7/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/chayy7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/chayy7/LeetCode-Problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/chayy7/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/chayy7/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
