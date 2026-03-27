@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2844-sum-of-squares-of-special-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chayy7/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2810-faulty-keyboard](https://github.com/chayy7/LeetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chayy7/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/chayy7/LeetCode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chayy7/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/chayy7/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
 | [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chayy7/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/chayy7/LeetCode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
