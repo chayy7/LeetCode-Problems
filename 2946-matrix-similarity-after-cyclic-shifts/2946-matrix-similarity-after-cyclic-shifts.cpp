@@ -21,14 +21,16 @@ public:
         int n=mat.size();
         int m=mat[0].size();
 
-        int i=0;
         while(k--){
-            for(int i = 0; i < n; i++){
+            int i=0;
+            for(auto& row:mat){
                 if(i % 2 == 0){
-                    ls(mat[i]);
-                } else {
-                    rs(mat[i]);
+
+                    ls(row);
+                }else{
+                    rs(row);
                 }
+                i++;
             }
         }
 
