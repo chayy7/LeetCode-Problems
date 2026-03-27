@@ -15,6 +15,7 @@ public:
         
         int n=mat.size();
         int m=mat[0].size();
+        k %= m;
 
         while(k--){
             int i=0;
