@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chayy7/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/chayy7/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chayy7/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chayy7/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chayy7/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/chayy7/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1071,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chayy7/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/chayy7/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
