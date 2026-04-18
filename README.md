@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/chayy7/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/0415-add-strings) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/chayy7/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/chayy7/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/chayy7/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
