@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/chayy7/LeetCode-Problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/chayy7/LeetCode-Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/chayy7/LeetCode-Problems/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/chayy7/LeetCode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/chayy7/LeetCode-Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/chayy7/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chayy7/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -1178,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/chayy7/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Union-Find
 |  |
 | ------- |
