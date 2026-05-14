@@ -11,7 +11,9 @@ public:
             }
 
             maxi = max(maxi, i+nums[i]);
-
+            if(maxi >= n){
+                return true;
+            }
         }
         return true;
     }
