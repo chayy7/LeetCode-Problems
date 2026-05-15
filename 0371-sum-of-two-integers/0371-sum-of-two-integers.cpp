@@ -1,7 +1,19 @@
 class Solution {
 public:
     int getSum(int a, int b) {
-        vector<int> v{a,b};
-        return accumulate(v.begin(), v.end(), 0);
+        if( b >= 0){
+
+            while(b!= 0){
+                a += 1;
+                b-=1;
+            }
+        }else{
+
+            while(b!= 0){
+                a -= 1;
+                b+=1;
+            }
+        }
+        return a;
     }
 };
