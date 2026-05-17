@@ -1,15 +1,15 @@
 class Solution {
 public:
     vector<int> concatWithReverse(vector<int>& nums) {
-        vector<int> v;
-        for(auto i:nums){
-            v.push_back(i);
+        vector<int> ans;
+        for(auto i : nums){
+            ans.push_back(i);
         }
-        reverse(nums.begin(), nums.end());
-        for(auto i:nums){
-            v.push_back(i);
+        int ptr = nums.size() - 1;
+        while(ptr >= 0){
+            ans.push_back(nums[ptr]);
+            ptr--;
         }
-
-        return v;
+        return ans;
     }
 };
