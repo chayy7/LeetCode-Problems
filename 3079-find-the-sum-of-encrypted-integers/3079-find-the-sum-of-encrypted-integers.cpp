@@ -1,27 +1,30 @@
 class Solution {
 public:
-    int getLarge(int n){
-        if(n <= 9){
-            return n;
-        }
-        int len = log10(n) + 1;
-        int max_n = INT_MIN;
+    
+    int maxi(int n){
+        int maxi = INT_MIN;
+        int o=n;
         while(n > 0){
-            int last = n % 10;
-            max_n = max(max_n, last);
+            maxi = max(maxi, n%10);
             n /= 10;
+
         }
-        int new_num = 0;
-        while(len--){
-            new_num = (new_num * 10) + max_n;
+        return maxi;
+    }
+    int rpl(int maxi, int n){
+        int size = log10(n)+1;
+        int num = 0;
+        while(size){
+            num = num*10 + maxi;
+            size--;
         }
-        return new_num;
+        return num;
     }
     int sumOfEncryptedInt(vector<int>& nums) {
         int sum = 0;
         for(auto i: nums){
-            sum += getLarge(i);
+            sum += rpl(maxi(i), i);
         }
-        return sum;  
+        return sum;
     }
 };
