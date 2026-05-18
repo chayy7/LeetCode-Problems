@@ -1,43 +1,34 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        if(head == nullptr) return head;
-
-        vector<int> v;
-        ListNode*temp = head;
+    void getNodes(ListNode* head, vector<int> &arr){
+        ListNode* temp=head;
         while(temp){
-            v.push_back(temp->val);
-            temp=temp->next;
+            arr.push_back(temp->val);
+            temp = temp->next;
         }
-
-        temp=head;
-
-        for(int i=0;i<v.size();i+=k){
-            if(i+k <= v.size()){
-                 reverse(v.begin()+i,v.begin()+k+i);
+    }
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        vector<int> arr;
+        getNodes(head, arr);
+        
+        
+        // this is so important
+        for(int i=0;i<arr.size();i+=k){
+            if(i+k <= arr.size()){
+                reverse(arr.begin()+i, arr.begin()+i+k);
             }
         }
-        for(auto i:v){
+        for(auto i:arr){
             cout << i << " ";
         }
-
-
-        int i=0;
-        while(temp){
-            temp->val = v[i++];
-            temp=temp->next;
+        ListNode* ans = head;
+        ListNode* temp = ans;
+        for(auto i : arr){
+            temp->val = i;
+            temp = temp->next;
         }
-
-        return head;
+    
+   
+        return ans;
     }
 };
