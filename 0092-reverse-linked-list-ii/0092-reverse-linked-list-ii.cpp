@@ -1,38 +1,29 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
-    ListNode* reverseBetween(ListNode* head, int left, int right) {
-        vector<int> v;
-
+    void getArr(ListNode* head, vector<int> &arr){
         ListNode* temp = head;
         while(temp){
-            v.push_back(temp->val);
-            temp=temp->next;
+            arr.push_back(temp->val);
+            temp = temp->next;
         }
-
-        reverse(v.begin()+left-1, v.begin()+right);
-        
-        
-        temp=head;
-        int i = 0;
-        while(temp){
-            temp->val = v[i];
-            cout << temp->val << " ";
-            i += 1;
-            temp=temp->next;
+    }
+    void revArr(vector<int> &arr, int left, int right){
+        int l = left-1, r = right-1; // here i corrected it
+        while(l < r){
+            swap(arr[l], arr[r]);
+            l++, r--;
         }
-
-        
-
-        return head;
+    }
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+        vector<int> arr;
+        getArr(head, arr);
+        revArr(arr, left, right);
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+        for(auto i: arr){
+            temp->next = new ListNode(i);
+            temp = temp->next;
+        }
+        return dummy->next;
     }
 };
