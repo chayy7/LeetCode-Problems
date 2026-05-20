@@ -8,7 +8,7 @@ public:
         }
     }
     void revArr(vector<int> &arr, int left, int right){
-        int l = left-1, r = right-1; // here i corrected it
+        int l = left-1, r = right-1; 
         while(l < r){
             swap(arr[l], arr[r]);
             l++, r--;
