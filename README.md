@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/chayy7/LeetCode-Problems/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/chayy7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/chayy7/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chayy7/LeetCode-Problems/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/chayy7/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/chayy7/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/chayy7/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -1167,10 +1169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chayy7/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/chayy7/LeetCode-Problems/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
