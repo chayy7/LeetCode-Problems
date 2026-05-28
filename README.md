@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chayy7/LeetCode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chayy7/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/chayy7/LeetCode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chayy7/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
