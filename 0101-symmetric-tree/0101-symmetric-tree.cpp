@@ -30,7 +30,7 @@ public:
                     q.push(node->left);
                     q.push(node->right);
                 } else {
-                    level.push_back(INT_MIN);  // use a special marker for nulls
+                    level.push_back(INT_MIN); 
                 }
             }
 
