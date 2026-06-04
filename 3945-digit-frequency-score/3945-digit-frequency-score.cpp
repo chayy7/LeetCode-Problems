@@ -1,17 +1,19 @@
 class Solution {
 public:
     int digitFrequencyScore(int n) {
-        map<int,int> mpp;
-        while(n > 0){
-            int rem = n%10;
-            mpp[rem]++;
+        vector<int> freq(10, 0);
+
+        while (n > 0) {
+            freq[n % 10]++;
             n /= 10;
         }
 
-        int sum = 0;
-        for(auto i:mpp){
-            sum += i.first * i.second;
+        int ans = 0;
+
+        for (int d = 0; d <= 9; d++) {
+            ans += d * freq[d];
         }
-        return sum;
+
+        return ans;
     }
 };
