@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/chayy7/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -834,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/chayy7/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -909,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
