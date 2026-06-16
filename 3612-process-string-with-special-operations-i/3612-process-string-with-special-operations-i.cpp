@@ -1,19 +1,18 @@
 class Solution {
 public:
     string processStr(string s) {
-        string ans = "";
-        for(int i=0;i<s.size();i++){
-            if(isalpha(s[i])){
-                ans += s[i];
-            }else if(s[i] == '*'){
-                if(!ans.empty()) ans.pop_back();
-            }else if(s[i] =='#'){
-                ans += ans;
-            }else if(s[i] == '%'){
-                reverse(begin(ans), end(ans));
+        string res = "";
+        for(auto i:s){
+            if(i =='*'){
+                if(!res.empty())res.pop_back();
+            }else if(i == '#'){
+                if(!res.empty())res += res;
+            }else if(i == '%'){
+                if(!res.empty())reverse(res.begin(), res.end());
+            }else{
+                if(isalpha(i)) res += i;
             }
         }
-
-        return ans;
+        return res;
     }
 };
