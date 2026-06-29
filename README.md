@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chayy7/LeetCode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chayy7/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chayy7/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/chayy7/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chayy7/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
