@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chayy7/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/chayy7/LeetCode-Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/chayy7/LeetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chayy7/LeetCode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -1110,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1268,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chayy7/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
 | ------- |
@@ -1277,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Queue
 |  |
 | ------- |
@@ -1343,4 +1348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/chayy7/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/chayy7/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/chayy7/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
