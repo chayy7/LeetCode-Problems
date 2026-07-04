@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/chayy7/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chayy7/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 ## Linked List
 |  |
 | ------- |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/chayy7/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
