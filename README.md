@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/chayy7/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/chayy7/LeetCode-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chayy7/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/chayy7/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/chayy7/LeetCode-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/chayy7/LeetCode-Problems/tree/master/2737-row-with-maximum-ones) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/chayy7/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/chayy7/LeetCode-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/chayy7/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
