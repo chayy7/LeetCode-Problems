@@ -1,45 +1,38 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
+    void llarr(ListNode* head, vector<int>& arr){
+        if(!head) return ;
+        ListNode* temp=head;
+
+        while(temp){
+            arr.push_back(temp->val);
+            temp=temp->next;
+        }
+    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if (!head || !head->next) return head;
+        if(!head) return head;
+        vector<int> arr;
+        llarr(head, arr);
 
-        int n = 0;
-        ListNode *temp=head;
-        vector<int> v;
-        while(temp){
-            v.push_back(temp->val);
-            n++;
-            temp=temp->next;
-        }
-        // cout << n;
-        k %= n;
-        if(k == 0) return head;
-        // cout << k;
+        k %= arr.size();
+        reverse(arr.begin(), arr.begin()+arr.size()-k);
+        reverse(arr.begin()+arr.size()-k, arr.end());
+        reverse(arr.begin(), arr.end());
 
+        for(auto i:arr){
+            cout << i << " ";
 
-        reverse(v.begin(), v.begin() + (n - k));  
-        reverse(v.begin() + (n - k), v.end());
-        reverse(v.begin(), v.end()); 
-
-        temp=head;
-        int i = 0;
-        while(temp){
-            temp->val = v[i];
-            i+=1;
-            temp=temp->next;
         }
 
+        ListNode* temp=head;
+        int ptr = 0;
+        while(temp){
+            temp->val = arr[ptr++];
+            temp=temp->next;
+        }
 
         return head;
+
+        
     }
 };
