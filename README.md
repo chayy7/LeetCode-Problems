@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/chayy7/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/chayy7/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
@@ -878,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/chayy7/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/chayy7/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/chayy7/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/chayy7/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/chayy7/LeetCode-Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0791-custom-sort-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0791-custom-sort-string) |
 | [0905-sort-array-by-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
