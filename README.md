@@ -745,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
