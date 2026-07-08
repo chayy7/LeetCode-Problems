@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/chayy7/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chayy7/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Linked List
 |  |
 | ------- |
