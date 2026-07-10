@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1598-crawler-log-folder](https://github.com/chayy7/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1646-kth-missing-positive-number) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chayy7/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/chayy7/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1598-crawler-log-folder](https://github.com/chayy7/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/chayy7/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/chayy7/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1598-crawler-log-folder](https://github.com/chayy7/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
