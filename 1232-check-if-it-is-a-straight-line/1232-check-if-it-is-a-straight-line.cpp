@@ -14,8 +14,9 @@ public:
         for (int i = 2; i < c.size(); i++) {
             double curr = (double)(c[i][1] - c[0][1]) / (c[i][0] - c[0][0]);
 
-            if (curr != slope)
+            if (curr != slope){
                 return false;
+            }
         }
 
         return true;
