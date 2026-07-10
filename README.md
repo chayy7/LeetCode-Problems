@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/chayy7/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/chayy7/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
+| [3917-count-indices-with-opposite-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Sliding Window
 |  |
