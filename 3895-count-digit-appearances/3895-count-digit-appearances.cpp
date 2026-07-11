@@ -1,19 +1,23 @@
 class Solution {
 public:
-    int count(int n,int digit){
-        int c =0;
+    void digExtracter(int n,int dig, int &count){
         while(n > 0){
-            int rem = n%10;
-            if(rem == digit) c++;
-            n/=10;
+            int lastDig = n % 10;
+            if(lastDig == dig){
+                count++;
+            }
+            n /= 10;
         }
-        return c;
     }
+    
     int countDigitOccurrences(vector<int>& nums, int digit) {
-        int cnt = 0;
-        for(auto i:nums){
-            cnt += count(i,digit);
+        int count = 0;
+        for(auto i: nums){
+            digExtracter(i, digit, count);
         }
-        return cnt;
+        return count;
+        
+        
+        
     }
 };
