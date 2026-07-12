@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chayy7/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1313-decompress-run-length-encoded-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/chayy7/LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/chayy7/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/chayy7/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/chayy7/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -988,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
+| [1331-rank-transform-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
