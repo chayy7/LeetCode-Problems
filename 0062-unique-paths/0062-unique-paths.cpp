@@ -1,18 +1,19 @@
 class Solution {
 public:
-    int func(int m, int n, vector<vector<int>>& dp){
-        if(m == 0 && n == 0) return 1;
-        if(m < 0 || n < 0) return 0;
+    int func(int n, int m, vector<vector<int>>& dp){
+        if(n == 0 && m == 0) return 1;
 
-        if(dp[m][n] != -1) return dp[m][n];
+        if(n < 0 || m < 0) return 0;
 
-        int left = func(m, n-1, dp);
-        int up= func(m-1, n, dp);
+        if(dp[n][m] != -1) return dp[n][m];
 
-        return dp[m][n] = left+up;
+        int up = func(n,m-1,dp);
+        int left = func(n-1,m,dp);
+
+        return dp[n][m] = up+left;
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        return func(m-1,n-1,dp);
+        vector<vector<int>> dp(n, vector<int>(m, -1));
+        return func(n-1,m-1, dp);
     }
 };
