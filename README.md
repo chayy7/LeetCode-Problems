@@ -756,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/chayy7/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/chayy7/LeetCode-Problems/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/chayy7/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/chayy7/LeetCode-Problems/tree/master/3618-split-array-by-prime-indices) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/chayy7/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/chayy7/LeetCode-Problems/tree/master/3765-complete-prime-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chayy7/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Monotonic Stack
