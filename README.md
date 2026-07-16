@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/chayy7/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/chayy7/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1321,6 +1322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/chayy7/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/chayy7/LeetCode-Problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Design
