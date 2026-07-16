@@ -1005,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1387-sort-integers-by-the-power-value](https://github.com/chayy7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/chayy7/LeetCode-Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -1104,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/chayy7/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/chayy7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -1114,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/chayy7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 ## Counting
 |  |
 | ------- |
