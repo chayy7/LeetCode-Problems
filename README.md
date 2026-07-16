@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/chayy7/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/chayy7/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3917-count-indices-with-opposite-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Linked List
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/chayy7/LeetCode-Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/chayy7/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chayy7/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -1027,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1237,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/chayy7/LeetCode-Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chayy7/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/chayy7/LeetCode-Problems/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chayy7/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Monotonic Stack
 |  |
