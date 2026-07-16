@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/chayy7/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chayy7/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-prime-in-diagonal](https://github.com/chayy7/LeetCode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/chayy7/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2810-faulty-keyboard](https://github.com/chayy7/LeetCode-Problems/tree/master/2810-faulty-keyboard) |
 | [2857-total-distance-traveled](https://github.com/chayy7/LeetCode-Problems/tree/master/2857-total-distance-traveled) |
@@ -940,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/chayy7/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chayy7/LeetCode-Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2670-find-the-distinct-difference-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/chayy7/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/chayy7/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/chayy7/LeetCode-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2784-check-if-array-is-good](https://github.com/chayy7/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
@@ -1050,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chayy7/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2679-sum-in-a-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/chayy7/LeetCode-Problems/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
