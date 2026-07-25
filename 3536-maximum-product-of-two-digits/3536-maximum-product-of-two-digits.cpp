@@ -7,10 +7,17 @@ public:
             n /= 10;
         }
 
-        sort(arr.begin(), arr.end());
-        int prod = 1;
-        prod *= arr[arr.size()-1]* arr[arr.size()-2];
+        int first = -1, second = -1;
 
-        return prod;
+        for (int d : arr) {
+            if (d >= first) {
+                second = first;
+                first = d;
+            } else if (d > second) {
+                second = d;
+            }
+        }
+
+        return first * second;
     }
 };
