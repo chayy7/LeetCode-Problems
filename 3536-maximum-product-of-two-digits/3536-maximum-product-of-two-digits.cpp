@@ -7,14 +7,11 @@ public:
             n /= 10;
         }
 
-        reverse(arr.begin(), arr.end());
-        int maxi = INT_MIN;
-        for(int i=0;i<arr.size();i++){
-            for(int j=i+1;j<arr.size();j++){
-                maxi = max(maxi, arr[i]*arr[j]);
-            }
-        }
+        sort(arr.begin(), arr.end());
+        int prod = 1;
+        prod *= arr[arr.size()-1];
+        prod *= arr[arr.size()-2];
 
-        return maxi;
+        return prod;
     }
 };
