@@ -9,8 +9,7 @@ public:
 
         sort(arr.begin(), arr.end());
         int prod = 1;
-        prod *= arr[arr.size()-1];
-        prod *= arr[arr.size()-2];
+        prod *= arr[arr.size()-1]* arr[arr.size()-2];
 
         return prod;
     }
