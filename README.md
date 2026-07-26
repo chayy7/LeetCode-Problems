@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chayy7/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1029-two-city-scheduling](https://github.com/chayy7/LeetCode-Problems/tree/master/1029-two-city-scheduling) |
 | [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1029-two-city-scheduling](https://github.com/chayy7/LeetCode-Problems/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/chayy7/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/chayy7/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1029-two-city-scheduling](https://github.com/chayy7/LeetCode-Problems/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
