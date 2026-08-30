@@ -1,25 +1,39 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
-        int len = nums.size();
-        int max_elem = INT_MIN;
-        int max_idx = 0;
-        int min_elem = INT_MAX;
-        int min_idx = 0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i] > max_elem){
-                max_elem = nums[i];
-                max_idx = i;
+        int n=nums.size();
+        int mini = *min_element(nums.begin(), nums.end());
+        int maxi = *max_element(nums.begin(), nums.end());
+
+        int mini_idx= -1;
+        int maxi_idx= -1;
+
+        for(int i=0;i<n;i++){
+            if(nums[i] == mini){
+                mini_idx = i;
             }
-            if(nums[i] < min_elem){
-                min_elem = nums[i];
-                min_idx = i;
+            if(nums[i] == maxi){
+                maxi_idx = i;
             }
         }
-        int front = max(min_idx, max_idx) + 1;
-        int back = len - min(min_idx, max_idx);
-        int mix = (min(min_idx, max_idx) + 1) + (len - max(min_idx, max_idx));
-        return min({front, back, mix});
-        
+
+        // int mini_bidx = -1;
+        // int maxi_bidx = -1;
+
+        int mini_bidx = n- mini_idx ;
+        int maxi_bidx = n-maxi_idx;
+
+
+
+
+        cout << mini_bidx << endl;
+        cout << maxi_bidx << endl;
+
+        int ff = max(mini_idx+1, maxi_idx+1);
+        int bb = max(mini_bidx, maxi_bidx);
+        int fb = min(mini_idx+1+ maxi_bidx, mini_bidx+1+maxi_idx);
+
+
+        return min(ff,min(bb,fb));
     }
 };
