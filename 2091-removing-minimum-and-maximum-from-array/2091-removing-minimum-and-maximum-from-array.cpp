@@ -26,6 +26,8 @@ public:
 
 
 
+        cout << mini_idx << endl;
+        cout << maxi_idx << endl;
         cout << mini_bidx << endl;
         cout << maxi_bidx << endl;
 
