@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/chayy7/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/chayy7/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/chayy7/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3917-count-indices-with-opposite-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-complete-prime-number](https://github.com/chayy7/LeetCode-Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/chayy7/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/chayy7/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/chayy7/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
