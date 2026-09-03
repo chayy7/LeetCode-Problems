@@ -7,7 +7,7 @@ public:
             curr += i;
             if(curr == s) return true;
 
-            if(curr.size() > s.size()) return false;
+            // if(curr.size() > s.size()) return false;
 
         }
 
