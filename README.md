@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/chayy7/LeetCode-Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/chayy7/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2109-adding-spaces-to-a-string) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/chayy7/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chayy7/LeetCode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -1205,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/chayy7/LeetCode-Problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
 |  |
