@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/chayy7/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/chayy7/LeetCode-Problems/tree/master/1029-two-city-scheduling) |
 | [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1609-even-odd-tree) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0867-transpose-matrix) |
+| [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1437,6 +1441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chayy7/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chayy7/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
