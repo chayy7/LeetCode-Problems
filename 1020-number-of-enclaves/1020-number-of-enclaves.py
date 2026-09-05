@@ -1,0 +1,33 @@
+class Solution:
+    def numEnclaves(self, grid: List[List[int]]) -> int:
+        m,n = len(grid), len(grid[0])
+
+        def dfs(i,j):
+            if i<0 or i>= m or j <0 or j>=n or grid[i][j] == 0:
+                return
+            grid[i][j] = 0
+
+            dfs(i+1,j)
+            dfs(i-1,j)
+            dfs(i,j+1)
+            dfs(i,j-1)
+        
+
+        for i in range(m):
+            if(grid[i][0]):
+                dfs(i,0)
+
+            if(grid[i][n-1]):
+                dfs(i,n-1)
+
+
+        for j in range(n):
+            if(grid[0][j]):
+                dfs(0,j)
+
+            if(grid[m-1][j]):
+                dfs(m-1,j)
+
+        return sum(row.count(1) for row in grid)
+
+        
