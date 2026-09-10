@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/chayy7/LeetCode-Problems/tree/master/1109-corporate-flight-bookings) |
+| [1122-relative-sort-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1187-make-array-strictly-increasing](https://github.com/chayy7/LeetCode-Problems/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -969,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1122-relative-sort-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/chayy7/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/chayy7/LeetCode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/chayy7/LeetCode-Problems/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
+| [1122-relative-sort-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1187-make-array-strictly-increasing](https://github.com/chayy7/LeetCode-Problems/tree/master/1187-make-array-strictly-increasing) |
 | [1200-minimum-absolute-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -1433,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1519,4 +1523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chayy7/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
