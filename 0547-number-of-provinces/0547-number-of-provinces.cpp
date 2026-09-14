@@ -1,55 +1,47 @@
 class Solution {
 public:
-    void dfs(int i, map<int, vector<int>>& adj, vector<int>& freq){
-        freq[i]= true;
+    void dfs(int i, map<int, vector<int>>& mpp, vector<int>& vis){
+        vis[i] =1;
 
-
-        for(auto j:adj[i]){
-            if(!freq[j]) dfs(j,adj,freq);
+        for(auto j:mpp[i]){
+            if(!vis[j]){
+                vis[j] = 1;
+                dfs(j, mpp, vis);
+            }
         }
     }
-    int findCircleNum(vector<vector<int>>& isc) {
-        int n = isc.size();
-        
-
-        int cnt = 0;
-
-        map<int, vector<int>> adj;
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(isc[i][j] == 1) {
-                    adj[i+1].push_back(j+1);
-                    adj[j+1].push_back(i+1);
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        map<int, vector<int>> mpp;
+        for(int i=0;i<isConnected.size();i++){
+            for(int j = 0;j<isConnected.size();j++){
+                if(i != j && isConnected[i][j] == 1){
+                    mpp[i+1].push_back(j+1);
                 }
             }
         }
 
-        vector<int> freq(n+1, false);
-        int start = 1;
-        // map<int, bool> visited;
-        for(int i=1;i<=n;i++){
-            if(!freq[i]){
+        for(auto i:mpp){
+            cout << i.first << "->";
+            for(auto j:i.second){
+                cout  << j << " ";
+            }
+            cout << endl;
+        }
 
+
+        int n = isConnected.size();
+        vector<int> vis(n+1, 0);
+        
+
+        int cnt = 0;
+
+        for(int i =1;i<=n;i++){
+            if(!vis[i]){
                 cnt++;
-                dfs(i, adj, freq);
+                dfs(i, mpp, vis);
             }
         }
 
-        // for(auto i:adj){
-        //     cout << i.first << "->";
-        //     for(auto j:i.second){
-        //         cout << j << " ";
-        //     }
-        //     cout << endl;
-        // }
-
-       
-
-
-
-
-
         return cnt;
-
     }
 };
