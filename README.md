@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/chayy7/LeetCode-Problems/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/chayy7/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/chayy7/LeetCode-Problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/chayy7/LeetCode-Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/chayy7/LeetCode-Problems/tree/master/2465-number-of-distinct-averages) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2481-strictly-palindromic-number](https://github.com/chayy7/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/chayy7/LeetCode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1187-make-array-strictly-increasing](https://github.com/chayy7/LeetCode-Problems/tree/master/1187-make-array-strictly-increasing) |
 | [1387-sort-integers-by-the-power-value](https://github.com/chayy7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
@@ -1372,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/chayy7/LeetCode-Problems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chayy7/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/chayy7/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/chayy7/LeetCode-Problems/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
