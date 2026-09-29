@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2256-minimum-average-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/2256-minimum-average-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/chayy7/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayy7/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/chayy7/LeetCode-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -921,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chayy7/LeetCode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/chayy7/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayy7/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/chayy7/LeetCode-Problems/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/chayy7/LeetCode-Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/chayy7/LeetCode-Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chayy7/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayy7/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
@@ -1585,4 +1588,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayy7/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
