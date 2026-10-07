@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/chayy7/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/chayy7/LeetCode-Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/chayy7/LeetCode-Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/chayy7/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chayy7/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/chayy7/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -1273,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/chayy7/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/chayy7/LeetCode-Problems/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/chayy7/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
