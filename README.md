@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/chayy7/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chayy7/LeetCode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chayy7/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/chayy7/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/chayy7/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chayy7/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/chayy7/LeetCode-Problems/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/chayy7/LeetCode-Problems/tree/master/2128-reverse-prefix-of-word) |
@@ -1407,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/chayy7/LeetCode-Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chayy7/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/chayy7/LeetCode-Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chayy7/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1608,5 +1611,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chayy7/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayy7/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
