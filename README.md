@@ -840,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chayy7/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/chayy7/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3697-compute-decimal-representation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -1437,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chayy7/LeetCode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chayy7/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quickselect
 |  |
