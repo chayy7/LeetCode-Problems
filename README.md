@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3909-compare-sums-of-bitonic-parts](https://github.com/chayy7/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3917-count-indices-with-opposite-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/chayy7/LeetCode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
