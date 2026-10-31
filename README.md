@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chayy7/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3665-twisted-mirror-path-count](https://github.com/chayy7/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3697-compute-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -964,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/chayy7/LeetCode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/chayy7/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 ## Enumeration
 |  |
 | ------- |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chayy7/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chayy7/LeetCode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chayy7/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3665-twisted-mirror-path-count](https://github.com/chayy7/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
