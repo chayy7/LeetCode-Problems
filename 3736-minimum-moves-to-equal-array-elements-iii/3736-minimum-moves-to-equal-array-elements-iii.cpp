@@ -1,12 +1,8 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int difSum = 0;
-        int maxElem = *max_element(nums.begin(), nums.end());
-        for(int i=0;i<nums.size();i++){
-            difSum += maxElem - nums[i];
-        }
-        return difSum;
+        int top = ranges::max(nums), moves = 0;
+        for (int x : nums) moves += top - x;
+        return moves;
     }
 };
-
