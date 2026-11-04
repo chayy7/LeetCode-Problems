@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/chayy7/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/chayy7/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/chayy7/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0387-first-unique-character-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/chayy7/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/chayy7/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chayy7/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
@@ -1584,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/chayy7/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
@@ -1707,10 +1711,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chayy7/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 ## Aho–Corasick Algorithm
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
