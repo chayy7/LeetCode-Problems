@@ -1,0 +1,22 @@
+#include <algorithm>
+
+class Solution {
+public:
+    int computeArea(int ax1, int ay1, int ax2, int ay2, int bx1, int by1, int bx2, int by2) {
+        // Calculate the areas of both individual rectangles
+        int areaA = (ax2 - ax1) * (ay2 - ay1);
+        int areaB = (bx2 - bx1) * (by2 - by1);
+        
+        // Find the overlapping boundaries
+        int overlapWidth = std::min(ax2, bx2) - std::max(ax1, bx1);
+        int overlapHeight = std::min(ay2, by2) - std::max(ay1, by1);
+        
+        int overlapArea = 0;
+        // An overlap exists only if both width and height are strictly positive
+        if (overlapWidth > 0 && overlapHeight > 0) {
+            overlapArea = overlapWidth * overlapHeight;
+        }
+        
+        return areaA + areaB - overlapArea;
+    }
+};
