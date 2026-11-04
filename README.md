@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/chayy7/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/chayy7/LeetCode-Problems/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/chayy7/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/chayy7/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -1511,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/chayy7/LeetCode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/chayy7/LeetCode-Problems/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/chayy7/LeetCode-Problems/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/chayy7/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
