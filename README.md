@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1029-two-city-scheduling](https://github.com/chayy7/LeetCode-Problems/tree/master/1029-two-city-scheduling) |
+| [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/chayy7/LeetCode-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/chayy7/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/chayy7/LeetCode-Problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/chayy7/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/chayy7/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/chayy7/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
@@ -1530,6 +1532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/chayy7/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/chayy7/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
+| [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Design
 |  |
@@ -1537,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chayy7/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 ## Hash Function
 |  |
 | ------- |
@@ -1704,4 +1708,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/chayy7/LeetCode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/chayy7/LeetCode-Problems/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
