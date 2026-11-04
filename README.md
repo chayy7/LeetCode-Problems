@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/chayy7/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0994-rotting-oranges](https://github.com/chayy7/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chayy7/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/chayy7/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/chayy7/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/chayy7/LeetCode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
+| [0994-rotting-oranges](https://github.com/chayy7/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
