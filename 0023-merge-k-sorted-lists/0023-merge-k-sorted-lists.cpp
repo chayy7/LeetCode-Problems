@@ -1,31 +1,24 @@
 class Solution {
 public:
-    void getArr(vector<ListNode*>& lists, vector<int>& v){
-        for(auto i:lists){
-            ListNode* temp = i;
-            while(temp){
-                v.push_back(temp->val);
-                temp=temp->next;
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        priority_queue<int, vector<int>, greater<int>> pq;
+
+        for (auto head : lists) {
+            while (head) {
+                pq.push(head->val);
+                head = head->next;
             }
         }
-    }
 
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> v;
-        getArr(lists, v);
+        ListNode dummy(0);
+        ListNode* temp = &dummy;
 
-        sort(v.begin(), v.end());
-        for(auto i:v){
-            cout << i << " ";
+        while (!pq.empty()) {
+            temp->next = new ListNode(pq.top());
+            pq.pop();
+            temp = temp->next;
         }
 
-        if(v.empty()) return nullptr;
-        ListNode* newLL = new ListNode(v[0]);
-        ListNode* temp= newLL;
-        for(int i=1;i<v.size();i++){
-            temp->next= new ListNode(v[i]);
-            temp=temp->next;
-        }
-        return newLL;
+        return dummy.next;
     }
 };
