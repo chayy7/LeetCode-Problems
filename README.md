@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chayy7/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/chayy7/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chayy7/LeetCode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chayy7/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/chayy7/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -1225,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/chayy7/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/chayy7/LeetCode-Problems/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/chayy7/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/chayy7/LeetCode-Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/chayy7/LeetCode-Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
