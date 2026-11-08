@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/chayy7/LeetCode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/chayy7/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/chayy7/LeetCode-Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/chayy7/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chayy7/LeetCode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayy7/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chayy7/LeetCode-Problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayy7/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1609-even-odd-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chayy7/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chayy7/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/chayy7/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1329-sort-the-matrix-diagonally](https://github.com/chayy7/LeetCode-Problems/tree/master/1329-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/chayy7/LeetCode-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -1336,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/chayy7/LeetCode-Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/chayy7/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/chayy7/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/chayy7/LeetCode-Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/chayy7/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/chayy7/LeetCode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1619,6 +1624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/chayy7/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/chayy7/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/chayy7/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chayy7/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chayy7/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
