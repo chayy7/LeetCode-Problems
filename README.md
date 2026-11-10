@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/chayy7/LeetCode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3665-twisted-mirror-path-count](https://github.com/chayy7/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3697-compute-decimal-representation](https://github.com/chayy7/LeetCode-Problems/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -1318,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/chayy7/LeetCode-Problems/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayy7/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/chayy7/LeetCode-Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
