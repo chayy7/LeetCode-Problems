@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3765-complete-prime-number](https://github.com/chayy7/LeetCode-Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/chayy7/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/chayy7/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/chayy7/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1525,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/chayy7/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chayy7/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/chayy7/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quickselect
 |  |
 | ------- |
