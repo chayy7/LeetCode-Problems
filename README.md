@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/chayy7/LeetCode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-sort-matrix-by-diagonals](https://github.com/chayy7/LeetCode-Problems/tree/master/3446-sort-matrix-by-diagonals) |
 | [3463-alternating-groups-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3463-alternating-groups-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/chayy7/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3463-alternating-groups-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3463-alternating-groups-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayy7/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Tree
@@ -1283,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/chayy7/LeetCode-Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Dynamic Programming
 |  |
@@ -1485,6 +1488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chayy7/LeetCode-Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/chayy7/LeetCode-Problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -1599,6 +1603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/chayy7/LeetCode-Problems/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1621,6 +1626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chayy7/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Game Theory
 |  |
@@ -1773,4 +1779,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chayy7/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
