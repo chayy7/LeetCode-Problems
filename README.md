@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chayy7/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chayy7/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/chayy7/LeetCode-Problems/tree/master/3417-zigzag-grid-traversal-with-skip) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/chayy7/LeetCode-Problems/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chayy7/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chayy7/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/chayy7/LeetCode-Problems/tree/master/2415-reverse-odd-levels-of-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chayy7/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/chayy7/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/chayy7/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3271-hash-divided-string](https://github.com/chayy7/LeetCode-Problems/tree/master/3271-hash-divided-string) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chayy7/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/chayy7/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/chayy7/LeetCode-Problems/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chayy7/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -1134,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/chayy7/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/chayy7/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/chayy7/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/chayy7/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/chayy7/LeetCode-Problems/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/chayy7/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
