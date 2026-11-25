@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3909-compare-sums-of-bitonic-parts](https://github.com/chayy7/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3917-count-indices-with-opposite-parity](https://github.com/chayy7/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/chayy7/LeetCode-Problems/tree/master/3921-score-validator) |
+| [3934-smallest-unique-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/chayy7/LeetCode-Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
@@ -989,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/chayy7/LeetCode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/chayy7/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3934-smallest-unique-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -1158,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chayy7/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/chayy7/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chayy7/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/chayy7/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -1631,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/chayy7/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -1718,6 +1722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/chayy7/LeetCode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1818,4 +1823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/chayy7/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chayy7/LeetCode-Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
